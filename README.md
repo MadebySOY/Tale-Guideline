@@ -1,11 +1,6 @@
 # Tale-Guideline
 
----
-layout: default
-title: Markdown Cheat Sheet
-description: A quick reference to the Markdown syntax.
-last_modified_at: 2020-07-31
----
+Modified after: https://github.com/mattcone/markdown-guide
 
 ## Overview
 
